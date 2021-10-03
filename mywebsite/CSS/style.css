@@ -21,7 +21,7 @@ body {
 }
 
 #navbar {
-  background-color: #333;
+  background-color: gray;
   color: #fff;
 }
 
@@ -46,7 +46,7 @@ body {
   background-position: center right;
   min-height: 300px;
   margin-bottom: 30px;
-  text-aling: center;
+  text-align: center;
 }
 
 #showcase h1 {
